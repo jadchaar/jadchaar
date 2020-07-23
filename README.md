@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋, I'm Jad, a computer science student and tech enthusiast based in Ann Arbor, Michigan. On my free time, I enjoy contributing to open source projects, watching movies, and playing video games.
 
 <!--
 **jadchaar/jadchaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
