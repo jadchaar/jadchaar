@@ -1,4 +1,4 @@
-Hi there 👋, I'm Jad, a computer science graduate student and tech enthusiast based in Ann Arbor, Michigan. On my free time, I enjoy contributing to open source projects, watching movies and TV shows, and playing video games.
+Hi there 👋, I'm Jad, a science and tech enthusiast based in Ann Arbor, Michigan. On my free time, I enjoy contributing to open source projects, going on hikes, watching movies and TV shows, and playing video games.
 
 I am currently working on [arrow 🏹](https://github.com/arrow-py/arrow) and [sec-edgar-downloader 📈](https://github.com/jadchaar/sec-edgar-downloader).
 
